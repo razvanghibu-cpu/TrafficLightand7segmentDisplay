@@ -38,6 +38,11 @@
 
 ![Schematic](schematic.png)
 
+### Fritzing demonstration
+![Schematic](fritzingdemonstration.png)
+
+
+
 
 
 
