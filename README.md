@@ -34,6 +34,12 @@
 |Green LED| D10|
 
 
+### Schematic
+
+![Schematic](schematic.png)
+
+
+
 
 
    
