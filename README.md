@@ -38,6 +38,13 @@ Code, wiring and component placement is done by me, the only external help was t
 |Yellow LED| D9|
 |Green LED| D10|
 
+### Code
+
+Go to [trafficlightcode](trafficlightcode.ino) to see the code
+
+### Video of it working
+![Schematic](irlvideo.gif)
+
 
 ### Schematic
 
