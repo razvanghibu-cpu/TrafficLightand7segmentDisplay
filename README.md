@@ -43,7 +43,7 @@ Code, wiring and component placement is done by me, the only external help was t
 Go to [trafficlightcode](trafficlightcode.ino) to see the code
 
 ### Video of it working
-![Schematic](irlvideo.gif)
+![Video](irlvideo.gif)
 
 
 ### Schematic
@@ -51,7 +51,7 @@ Go to [trafficlightcode](trafficlightcode.ino) to see the code
 ![Schematic](schematic.png)
 
 ### Fritzing demonstration
-![Schematic](fritzingdemonstration.png)
+![Demonstration](fritzingdemonstration.png)
 
 
 
